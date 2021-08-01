@@ -49,9 +49,7 @@ https://blog.csdn.net/weixin_51107732/article/details/119304737
 + 下载完后将里面的images文件夹和joints.mat文件放到PoseEstimationLSP目录下
 
   即如下图：
-
-  <img src="%E5%9B%BE%E7%89%87/image-20210801221637481.png" alt="image-20210801221637481" style="zoom: 50%;" />
-
+![图片](https://user-images.githubusercontent.com/75004553/127774787-20e0babf-d071-46b2-8b18-1182069256b1.png)
   
 
   执行程序主入口文件即可运行
